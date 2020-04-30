@@ -1,0 +1,48 @@
+Name: Casey Leland
+Date: 4/30/2020
+
+Project: "Final Project"
+Group's repository: https://github.com/yh17/Final-Project
+
+
+
+What is something you learned by reviewing this group's project?
+> A fairly good game *can* be made in 48 hours.
+ 
+
+In what ways does this game reflect the theme?
+> The game is a space shooter-like game where you shoot viruses.
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+> Good use of limited time.
+ 
+
+What suggestions would you have for this group to improve the game?
+> It would be nice if the player was less floaty.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+> Nothing confusing.
+ 
+
+Is it clear that every group member participated?
+> Yes
+ 
+
+Does the repository contain an appropriate LICENSE?
+> Yes
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+> A description of what the game is, and how to control it.
+> Noted here that the README did not contain the required information.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+> Very well put together, and almost everything synergizes well together.
+
+
+How many of your points would you allocate to this project?
+> 2
+
